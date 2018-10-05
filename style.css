@@ -27,10 +27,12 @@ nav li {
   font-size: 18px;
   font-family: "verdana", verdana, sans-serif;
 }
+
 a:link {
   color: rgb(135, 135, 135);
   text-decoration: none;
 }
+
 main {
   width: 960px;
   margin: auto;
@@ -41,18 +43,21 @@ main {
 main > img {
   margin-bottom: 29px;
 }
+
 main ul li img {
   float: left;
   margin-bottom: 30px;
 }
+
 main ul li:nth-child(2) img {
   margin-right: 30px;
   margin-left: 30px;
-  
 }
-main article img{
+
+main article img {
   float:left;
 }
+
 main article div h2 {
   float:left;
   margin-left:30px;
